@@ -1,0 +1,42 @@
+.price .container{
+    text-align: center;
+}
+
+.price .container .priceing h1{
+    padding: 10px;
+}
+
+.price .container .cards{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.price .container .cards .card{
+    width: 32%;
+    border: 1px solid gainsboro;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+
+.price .container .cards .card h1,h2{
+    color: #08526d;
+    font-weight: lighter;
+}
+
+.price .container .cards .card h2{
+    background-color: #d8d8d8;
+    padding: 10px;
+}
+
+.price .container .cards .card p{
+    padding: 10px;
+}
+
+.price .container .cards .card button{
+    background-color: #ec1c23;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    margin: 10px 0;
+}

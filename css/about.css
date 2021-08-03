@@ -1,0 +1,41 @@
+.about .container{
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(44, 44, 44);
+}
+
+.about .container h3{
+    color: #08526d;
+    margin: 10px 0;
+}
+
+.overview{
+    background-color: rgb(206, 206, 206);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.overview .container h1{
+    padding: 15px;
+    font-weight: lighter;
+}
+
+.overview .container p{
+    padding: 15px;
+    color: rgb(83, 83, 83);
+
+}
+
+.overview .container h3{
+    padding: 15px;
+}
+
+.overview .container button{
+    padding: 7px 20px;
+    margin: 10px 0;
+    font-size: 17px;
+    border: none;
+    background-color: #ec1c23;
+    color: rgb(190, 190, 190);
+}
